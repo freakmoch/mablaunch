@@ -3,7 +3,7 @@ Supposed to be a fancy Mabi launcher
 
 Its meant to be used with Abyss/Tiara/Frontend bc it will launch HSLaunch for you, and Direct Launch won't run w/o it. Honestly, you could just use a bat file for this, but I wanted something nice.
 
-This needs .NET Framework 4 to run --> https://www.microsoft.com/en-us/download/details.aspx?id=17851
+This needs .NET Framework 4.5 to run --> https://www.microsoft.com/en-us/download/details.aspx?id=30653
 
 #### Features
 - Meant to look like those old Ragnarok Online Private Server Launchers
